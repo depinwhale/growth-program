@@ -149,4 +149,4 @@ Title: June 2022 Contribution - {your #discord ID}
 - Justify why you have suggested these scores. 
 ```
 
-_The reward is viewable on this [SPREADSHEET]([https://docs.google.com/spreadsheets/d/1btEBrHLp973aLkkbAzrdp38ymjc1Eyht/edit?usp=sharing&ouid=108223921172009155919&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/12K-3e7fI8JHTA6CPtIzXffKTIgW7Y8IJ/edit?usp=sharing&ouid=112358880845148647261&rtpof=true&sd=true))._
+The reward is viewable on this Spreadsheet: https://docs.google.com/spreadsheets/d/1btEBrHLp973aLkkbAzrdp38ymjc1Eyht/edit?usp=sharing&ouid=108223921172009155919&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/12K-3e7fI8JHTA6CPtIzXffKTIgW7Y8IJ/edit?usp=sharing&ouid=112358880845148647261&rtpof=true&sd=true
