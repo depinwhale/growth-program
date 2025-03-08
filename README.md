@@ -10,7 +10,7 @@
 
 Spore.fun Ambassadors are enthusiastic community members who volunteer to assist Spore.fun in marketing, community management, content creation, etc. and receiving $PHA as compensation for their efforts. 
 
-As of March 2025, the Phala Network Ambassador Program consists of 1 Head Ambassador, 2 Senior Ambassadors and 5 Ambassadors. These active Ambassadors share a monthly token pool distributed based on their performances. Spore.fun plans to recruit 30 more Ambassadors in the latter half of the year of 2024. If you meet the criteria, and are interested in becoming part of the Spore.fun Ambassador Program, please fill out the [application]([https://bit.ly/AmbsApp](https://docs.google.com/forms/d/e/1FAIpQLSca5gH-TF55T886_ImKkbmKLYBda3JHJN6NXT9YyE_3mXm-UQ/viewform?usp=sharing)). 
+As of March 2025, the Phala Network Ambassador Program consists of 1 Head Ambassador, 2 Senior Ambassadors and 5 Ambassadors. These active Ambassadors share a monthly token pool distributed based on their performances. Spore.fun plans to recruit 30 more Ambassadors in the latter half of the year of 2024. If you meet the criteria, and are interested in becoming part of the Spore.fun Ambassador Program, please fill out the application: https://docs.google.com/forms/d/e/1FAIpQLSca5gH-TF55T886_ImKkbmKLYBda3JHJN6NXT9YyE_3mXm-UQ/viewform?usp=sharing. 
 
 ## Criteria:
 
